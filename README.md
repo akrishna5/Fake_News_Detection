@@ -6,7 +6,6 @@ A web application for detecting fake news from real ones using:
 - Web Embedding
 - Passive Aggressive Classifier
 
---
 "TARP Project (Fall Sem 2023-24)"
 --
 
