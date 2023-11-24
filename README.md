@@ -5,8 +5,10 @@ A web application for detecting fake news from real ones using:
 - Topic Modelling {by Latent Dirichlet Algorithm (LDA)}
 - Web Embedding
 - Passive Aggressive Classifier
- 
-TARP Project (Fall Sem 2023-24)
+
+--
+"TARP Project (Fall Sem 2023-24)"
+--
 
 Team Members:
 - ANUJ SINHA [20BCE2166]
